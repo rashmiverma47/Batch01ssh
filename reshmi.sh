@@ -1,1 +1,5 @@
-echo "hi hellow"
+#! /bin/sh
+
+mkdir Test
+cd Test
+echo "created Directory"
